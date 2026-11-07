@@ -1,8 +1,8 @@
 package net.jahus.villagerleash;
 
 import net.jahus.villagerleash.config.ModConfig;
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.loading.FMLPaths;
+import net.neoforged.fml.common.Mod;
+import net.neoforged.fml.loading.FMLPaths;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -14,6 +14,6 @@ public final class VillagerLeash {
 
 	public VillagerLeash() {
 		ModConfig.load(FMLPaths.CONFIGDIR.get());
-		LOGGER.info("Villager Leash (Forge) loaded");
+		LOGGER.info("Villager Leash (NeoForge) loaded");
 	}
 }
