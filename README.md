@@ -2,6 +2,9 @@
 
 Server-side mod for Minecraft that allows players to use lead on villagers and wandering traders, with optional costs.
 
+[![Modrinth](https://img.shields.io/modrinth/dt/jahus-villagerleash?logo=modrinth&label=Modrinth)](https://modrinth.com/mod/jahus-villagerleash)
+[![CurseForge](https://img.shields.io/curseforge/dt/1790386?logo=curseforge&label=CurseForge)](https://www.curseforge.com/projects/1790386)
+
 ## Config (`config/villagerleash.json`)
 ```json
 {
